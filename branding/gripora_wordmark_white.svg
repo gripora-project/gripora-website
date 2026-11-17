@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="480" height="120">
+  <title>Gripora</title>
+  <defs><clipPath id="cap"><rect x="0" y="10" width="2000" height="40"/></clipPath></defs>
+  <g transform="translate(11 0) skewX(-12)" clip-path="url(#cap)">
+    <path d="M26 14H6V46H26V30H17M42 50V14H62V30H42M51 30L62 50M78 10V50M94 50V14H114V30H94M166 50V14H186V30H166M175 30L186 50M202 50V14H222V50M202 32H222" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="miter" stroke-linecap="butt"/>
+    <circle cx="140" cy="30" r="16" fill="none" stroke="#FF5F1F" stroke-width="8"/>
+  </g>
+</svg>
